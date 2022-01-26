@@ -4,7 +4,7 @@
 
 Project for the DEVinHOUSE from SENAI course.
 
- - [ ] Time Lapse
+ - [x] Time Lapse
 03th January to 22th January, 2022.
 
 DEVinHouse
@@ -40,7 +40,7 @@ Now, I am able to show the Involves e da PariPassu, companies that were on board
   
   
 
-# 2. Requisitos da Aplicação
+# 2. Application demands
 
  1. [x] Individual challenge.
  
@@ -261,7 +261,7 @@ Você se levanta, olha para os prisioneiros, vai de um em um e os liberta, e tod
 O jogo encerra.
 
 
-## 6.1. Combat mechani:
+## 6.1. Combat mechanism:
 
 
 In a combat, each opponent has one turn. Whoever takes the initiative at the beginning of the combat has the advantage of the first turn. The enemy will always attack and the player can choose between attacking and fleeing (ending the game).
